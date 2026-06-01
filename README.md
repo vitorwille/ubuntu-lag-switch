@@ -2,7 +2,9 @@
 
 A simple software-based lag switched created using TypeScript and `iptables` for network testing purposes.
 
----
+<p align="center">
+  <img src="docs/img/image.png" width="500" alt="Lag Switch CLI">
+</p>
 
 ## How to Use
 
